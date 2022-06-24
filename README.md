@@ -1,6 +1,6 @@
 # Landing page 01
 
-<img height="300px" src="https://i.imgur.com/5mwdXEb.gif">
+<img height="300px" src="">
 
 Projeto original do Figma: https://www.figma.com/file/G0nErfusGqFZq3x9493oth/Explorer---Projeto-01-(Copy)
 
